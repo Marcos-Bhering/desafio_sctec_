@@ -6,4 +6,4 @@ print(df)
 ordenacao_df = df.sort_values(by='Temperature',ascending=True)
 print(ordenacao_df)
 
-# Testando se o develope está funcionando
+print('Testando se o develope está funcionando')
